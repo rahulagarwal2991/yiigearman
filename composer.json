@@ -1,0 +1,6 @@
+{
+    "name": "rahulagarwal2991/yiigearman",
+    "minimum-stability": "dev",
+    "require-all": true,
+    "require-dependencies": true
+}
